@@ -8,10 +8,10 @@
 ## 🖥️ Dashboard Preview
 
 ### Page 1 — Performance Overview
-![Dashboard Page 1](assets/dashboard_page1.png)
+![Dashboard Page 1](assets/page1.png)
 
 ### Page 2 — Strategic Intelligence & Risk Register
-![Dashboard Page 2](assets/dashboard_page2.png)
+![Dashboard Page 2](assets/page2.png)
 
 ---
 
