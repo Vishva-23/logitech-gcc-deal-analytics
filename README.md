@@ -44,12 +44,10 @@ logitech-gcc-deal-analytics/
 │   └── analysis_summary.xlsx          ← 7-tab Excel output (summary tables per question)
 │
 ├── dashboard/
-│   ├── Logitech_GCC_Analytics.twbx    ← Tableau packaged workbook (open in Tableau Desktop/Reader)
-│   ├── dashboard_page1.pdf            ← Page 1 — Performance Overview
-│   └── dashboard_page2.pdf            ← Page 2 — Strategic Intelligence
+│   ├── book1.twbx    ← Tableau packaged workbook (open in Tableau Desktop/Reader)
+│   ├── Book1pdf            ← Page 1 — Performance Overview
+
 │
-├── presentation/
-│   └── Logitech_Dashboard_Slide.pptx  ← Glassmorphism executive summary slide
 │
 └── assets/
     ├── dashboard_page1.png            ← Preview image for README
